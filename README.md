@@ -1,5 +1,13 @@
 # rain-tomorrow-forecast-classification
 
+## Team
+**Riders of the Storm** (4 members)
+
+- George Zippidis
+- Georgia Samara
+- Olympia Avaritsioti
+- Theologos Zervos
+
 Predict whether it will rain **tomorrow** in Australia using an explainable machine learning approach.  
 The project follows a clear workflow: **data → cleaning → EDA → modeling → explainability (SHAP) → presentation**.
 
