@@ -1,0 +1,5 @@
+Rain in Australia
+
+https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package/data
+
+download and place as data/weatherAUS.csv
